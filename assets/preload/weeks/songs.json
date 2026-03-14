@@ -1,50 +1,6 @@
 {
 	"songs": [
 		[
-			"Quaternion",
-			"quaternion",
-			[
-				0,
-				0,
-				0
-			]
-		],
-		[
-			"LACUNA",
-			"lacunda",
-			[
-				255,
-				255,
-			]	255
-		],
-		[
-			"insane",
-			"insane",
-			[
-				0,
-				0,
-				0
-			]
-		],
-		[
-			"seraphic",
-			"seraphic",
-			[
-				0,
-				0,
-				255
-			]
-		],
-		[
-			"omission",
-			"dan",
-			[
-				0,
-				0,
-				0
-			]
-		],
-		[
 			"Fatigue",
 			"david",
 			[
@@ -57,7 +13,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "normal, easy",
+	"difficulties": "normal",
 	"weekCharacters": [
 		"dad",
 		"bf",
