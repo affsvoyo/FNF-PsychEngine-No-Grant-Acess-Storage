@@ -1,0 +1,76 @@
+{
+	"songs": [
+		[
+			"Quaternion",
+			"quaternion",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"LACUNA",
+			"lacunda",
+			[
+				255,
+				255,
+			]	255
+		],
+		[
+			"insane",
+			"insane",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"seraphic",
+			"seraphic",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"omission",
+			"dan",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Fatigue",
+			"david",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "normal, easy",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
